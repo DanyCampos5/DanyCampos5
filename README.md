@@ -9,5 +9,7 @@ Estudante de Análise e Desenvolvimento de Sistemas 4/4
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/dany_campos5)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dc525950@gmail.com])
 
-![github-snake](https://github.com/DanyCampos5/DanyCampos5/blob/output/github-snake.svg)
+<img src="https://raw.githubusercontent.com/DanyCampos5/DanyCampos5/output/snake.svg" alt="Snake animation" />
+
+###
           
