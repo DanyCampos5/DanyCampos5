@@ -1,6 +1,6 @@
 ## Hi Danieli
-Formada em Análise e Desenvolvimento de Sistemas 
-
+🎓Formada em Análise e Desenvolvimento de Sistemas 
+👩🏻‍💻Analista de Suporte Técnico
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,php,java,nodejs,sql)](https://skillicons.dev)
 
