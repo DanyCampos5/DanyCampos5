@@ -1,5 +1,5 @@
 ## Hi Danieli
-Estudante de Análise e Desenvolvimento de Sistemas 4/4
+Formada em Análise e Desenvolvimento de Sistemas 
 
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=DanyCampos5&show_icons=true&theme=synthwave&hide_border=true&locale=pt-br)](https://github.com/DanyCampos5/github-readme-stats)
 
