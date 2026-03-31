@@ -1,7 +1,6 @@
 ## Hi Danieli
 Formada em Análise e Desenvolvimento de Sistemas 
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=DanyCampos5&show_icons=true&theme=synthwave&hide_border=true&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,php,java,nodejs,sql)](https://skillicons.dev)
 
